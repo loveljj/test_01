@@ -1,0 +1,4 @@
+# 忽略index.js
+index.js
+# 忽略test文件夹
+test/
